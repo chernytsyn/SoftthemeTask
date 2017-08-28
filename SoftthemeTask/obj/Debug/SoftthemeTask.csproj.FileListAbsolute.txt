@@ -1,0 +1,6 @@
+C:\Users\Владислав\Desktop\SoftthemeTask\SoftthemeTask\bin\Debug\SoftthemeTask.exe.config
+C:\Users\Владислав\Desktop\SoftthemeTask\SoftthemeTask\bin\Debug\SoftthemeTask.exe
+C:\Users\Владислав\Desktop\SoftthemeTask\SoftthemeTask\bin\Debug\SoftthemeTask.pdb
+C:\Users\Владислав\Desktop\SoftthemeTask\SoftthemeTask\obj\Debug\SoftthemeTask.exe
+C:\Users\Владислав\Desktop\SoftthemeTask\SoftthemeTask\obj\Debug\SoftthemeTask.pdb
+C:\Users\Владислав\Desktop\SoftthemeTask\SoftthemeTask\obj\Debug\SoftthemeTask.csprojResolveAssemblyReference.cache
